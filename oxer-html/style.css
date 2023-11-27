@@ -1,0 +1,41 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+table{
+    width: 800px;
+    margin: 100px auto;
+    border-collapse: collapse;
+}
+
+table, td, th{
+    border: 1px solid #cdcdcd;
+}
+
+th{
+    color: #ffffff;
+    background-color: #fc4646;
+}
+
+tr, td{
+    padding: 5px;
+    padding-left: 10px;
+}
+
+#id{
+    width: 10%;
+    padding: 10px;
+    text-align: left;
+}
+
+#name{
+    width: 40%;
+    padding: 10px;
+    text-align: left;
+}
+
+#description{
+    width: 50%;
+    padding: 10px;
+    text-align: left;
+}
